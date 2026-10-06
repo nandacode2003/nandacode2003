@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./light.svg" width="100%" alt="Spandan Kumar Nanda: AI/ML and GenAI engineer building agentic AI and RAG systems, final-year CSE student at C.V. Raman Global University, Bhubaneswar, and youth policy delegate.">
+  <img src="./light.svg" width="100%" alt="Spandan Kumar Nanda: AI/ML and GenAI engineer building agentic AI and RAG systems, CSE student at C.V. Raman Global University, Bhubaneswar, and youth policy delegate.">
 </picture>
 
 <h3 align="center">Building GenAI &amp; Agentic AI Systems · Policy Making for a Practical India</h3>
@@ -47,7 +47,7 @@ Built so students like me can see RAG work end to end instead of fighting it alo
 
 `LangGraph` `FastAPI` `Qdrant` `Jina AI` `NeMo Guardrails` `RAGAS` `Redis` `Prometheus` `Streamlit`
 
-#### Peptic Ulcer Detection from Endoscopic Images
+#### [Peptic Ulcer Detection from Endoscopic Images](https://github.com/nandacode2003/Peptic_Ulcer_Detection)
 
 A deep learning assistant for doctors that flags peptic ulcers in endoscopy images. An ensemble of three CNNs reaches **98.0% accuracy** and **99.0% recall**, tuned so it rarely misses a real ulcer.
 
