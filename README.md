@@ -29,7 +29,7 @@ Every one of them taught me the same simple thing: **a system nobody can explain
 
 **Generative AI** · **Agentic AI** · **RAG** · **LLM applications** · **AI guardrails & evaluation** · **Deep learning for healthcare**
 
-🔭 **Currently exploring:** Deep Agents · vectorless RAG · context engineering · Dev AI
+🔭 **Currently exploring:** Deep Agents · vectorless RAG · context rag · Dev AI
 
 ---
 
